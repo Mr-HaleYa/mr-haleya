@@ -1,8 +1,7 @@
 <p align="center">
-![](https://visitor-badge.glitch.me/badge?page_id=mr-haleya)
+  <img width="100" src="https://visitor-badge.glitch.me/badge?page_id=mr-haleya">
 </p>
 
-<br />
 <p align="center">
 🔭 I’m currently working on [mywater.site](https://mywater.site)<br />
 🌱 I’m currently learning php / sql<br />
