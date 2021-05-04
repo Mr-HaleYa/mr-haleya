@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-🔭 I’m currently working on [mywater.site](https://mywater.site)<br />
+🔭 I’m currently working on https://MyWater.site <br />
 🌱 I’m currently learning php / sql<br />
 📫 How to reach me: mr.haleya@gmail.com
 </p>
