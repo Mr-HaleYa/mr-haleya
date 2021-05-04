@@ -2,14 +2,14 @@
   <img width="100" src="https://visitor-badge.glitch.me/badge?page_id=mr-haleya">
 </p>
 
-<p align="center">
-🔭 I’m currently working on https://MyWater.site <br />
-🌱 I’m currently learning php / sql<br />
-📫 How to reach me: mr.haleya@gmail.com
-</p>
+
+- 🔭 I’m currently working on https://MyWater.site <br />
+- 🌱 I’m currently learning php / sql<br />
+- 📫 How to reach me: mr.haleya@gmail.com
+
 
 <h3 align="center">Developer from USA</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-haleya&show_icons=true" alt="mr-haleya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-haleya&show_icons=true&theme=gotham" alt="mr-haleya" /></p>
 
 <p align="center">
 <a href="https://stackoverflow.com/users/7915818/mr-haleya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mr-haleya" height="30" width="30" /></a>
