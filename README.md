@@ -2,12 +2,6 @@
   <img width="100" src="https://visitor-badge.glitch.me/badge?page_id=mr-haleya">
 </p>
 
-
-- 🔭 I’m currently working on [MyWater.site](https://MyWater.site)
-- 🌱 I’m currently learning php / sql<br />
-- 📫 How to reach me: mr.haleya@gmail.com
-
-
 <h3 align="center">Developer from USA</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-haleya&show_icons=true&theme=gotham" alt="mr-haleya" /></p>
 
